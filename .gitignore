@@ -1,0 +1,17 @@
+# Variables de entorno — NUNCA subir a GitHub
+.env
+*.env
+
+# Archivos de datos locales
+data/raw/
+*.parquet
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Databricks
+.databricks/
