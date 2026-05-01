@@ -1,4 +1,4 @@
-# Variables de entorno — NUNCA subir a GitHub
+# Variables de entorno
 .env
 *.env
 
